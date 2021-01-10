@@ -1,4 +1,4 @@
-# creditscoring_v1
+# credit_default_prediction_v1
 модель кредитного скоринга для банка
 
 Требуется, 
